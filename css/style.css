@@ -12,3 +12,9 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.logo-mcs{
+  height: 64px;
+}
+.font-blue {
+  color: #1E88E5 !important;
+}

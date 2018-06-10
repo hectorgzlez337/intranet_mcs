@@ -22,3 +22,20 @@ a.active{
   background-color: #1e88e5 !important;
   color: rgba(255,255,255,0.9) !important;
 }
+.justify{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.mision{
+  height: 85px;
+}
+.pad-nav li{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.pad-nav li a{
+  font-size: 1.3rem;
+}
+.font-panel a{
+  font-size: 1.3rem;
+}

@@ -39,3 +39,13 @@ a.active{
 .font-panel a{
   font-size: 1.3rem;
 }
+.color-title {
+  color: #1a237e;
+}
+.font-subtitle{
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.img-productos{
+  height: 95px;
+}

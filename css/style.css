@@ -18,3 +18,7 @@
 .font-blue {
   color: #1E88E5 !important;
 }
+a.active{
+  background-color: #1e88e5 !important;
+  color: rgba(255,255,255,0.9) !important;
+}
